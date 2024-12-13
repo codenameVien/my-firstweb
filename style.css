@@ -24,7 +24,7 @@
 }
 
 #chest .img:hover {
-  cursor: url("mainimages/Special\ Cookie\ Chest\ Open.png"), auto;
+  cursor: url("https://github.com/codenameVien/my-firstweb/raw/main/mainimages/Special\ Cookie\ Chest\ Open.png"), auto;
 }
 #chest .img img.hover {
   display: none;
@@ -43,7 +43,7 @@
       rgba(255, 255, 255, 0.2),
       rgba(255, 255, 255, 0.8)
     ),
-    url(mainimages/cookiekingdom.png);
+    url(https://github.com/codenameVien/my-firstweb/raw/main/mainimages/cookiekingdom.png);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -65,7 +65,7 @@
 }
 
 #intro .img:hover {
-  cursor: url("mainimages/PinkBearJelly.png"), auto;
+  cursor: url("https://github.com/codenameVien/my-firstweb/raw/main/mainimages/PinkBearJelly.png"), auto;
 }
 #intro .img img.hover, #chest .img img.click {
   display: none;
